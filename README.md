@@ -2,4 +2,4 @@
 Basic shooting game to kill space aliens
 
 Rules:
-1. 
+1. a
